@@ -1,6 +1,5 @@
-<b>Hi, there!</b>
 
-<b>I'm Charles Souza, welcome to my GitHub</b> 😉
+## Hi, I'm Charles Souza, welcome to my GitHub</b> 😉
 
 <i>I am a Social Scientist and professor of sociology. I love themes related to technology and society and I am currently studying to become a Fullstack developer.</i>
 
@@ -17,8 +16,3 @@
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/charles4souza)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=charles4souza)
-
-
-
-
-
