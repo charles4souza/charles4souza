@@ -2,7 +2,7 @@
 ## Hi, I'm Charles Souza...
 ## Welcome to my GitHub 😉
 
-<i>I'm a Social Scientist and a sociology professor. I am currently studying to become a Fullstack developer.</i>
+<i> I'm a Social Scientist, Professor of Sociology and I'm currently studying to become a Fullstack developer. </i>
 
 
 
