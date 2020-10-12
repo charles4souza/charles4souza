@@ -1,5 +1,6 @@
 
-## Hi, I'm Charles Souza, welcome to my GitHub</b> 😉
+## Hi, I'm Charles Souza...
+## Welcome to my GitHub 😉
 
 <i>I am a Social Scientist and professor of sociology. I love themes related to technology and society and I am currently studying to become a Fullstack developer.</i>
 
