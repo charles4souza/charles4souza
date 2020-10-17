@@ -1,5 +1,5 @@
 
-## Hi, I'm Charles Souza... Welcome to my GitHub 😉
+# Hi, I'm Charles Souza... Welcome to my GitHub 😉
 
 [<img src= "https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"/>](https://twitter.com/charles4souza) 
 [<img src= "https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium" />](https://medium.com/@charles4souza/) 
