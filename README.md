@@ -8,11 +8,11 @@
 
 ✔ <b><i>Follow me on social media:</i></b> 
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/charles4souza) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@charles4souza/) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/charles4souza/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/charles4souza/) 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/charles4souza)
+[<img src= "https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"/>](https://twitter.com/charles4souza) 
+[<img src= "https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium" />](https://medium.com/@charles4souza/) 
+[<img src= "https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/charles4souza/) 
+[<img src= "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>](https://www.instagram.com/charles4souza/) 
+[<img src= "https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>](https://www.facebook.com/charles4souza)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=charles4souza)
 
