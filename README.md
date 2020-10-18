@@ -6,8 +6,7 @@
 [<img src= "https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/charles4souza/) 
 [<img src= "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>](https://www.instagram.com/charles4souza/) 
 [<img src= "https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>](https://www.facebook.com/charles4souza)
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=charles4souza)
+[<img src= "https://img.shields.io/badge/telegram-blue?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"/>](https://telegram.com/charles4souza) 
 
 
 
