@@ -7,6 +7,9 @@
 [<img src= "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>](https://www.instagram.com/charles4souza/) 
 [<img src= "https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>](https://www.facebook.com/charles4souza)
 [<img src= "https://img.shields.io/badge/telegram-blue?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"/>](https://t.me/charles4souza) 
+[<img src= "https://img.shields.io/badge/whatsapp-darkgreen?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"/>](https://api.whatsapp.com/send?phone=5521996017137&text=Ol%C3%A1%2C%20seja%20bem%20vindo%20ao%20meu%20whatsapp) 
+
+
 
 
 
