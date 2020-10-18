@@ -10,9 +10,7 @@
 [<img src= "https://img.shields.io/badge/whatsapp-darkgreen?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"/>](https://api.whatsapp.com/send?phone=5521996017137&text=Ol%C3%A1%2C%20seja%20bem%20vindo%20ao%20meu%20whatsapp) 
 
 
-
-
-
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=charles4souza)
 
 
 <p align="left">
