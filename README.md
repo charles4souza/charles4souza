@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile😉&theme=dark&left=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile😉&theme=dark&left=true&width=380&height=45"color="dark">
 </p>
 
 [<img src= "https://img.shields.io/badge/LinkedIn-black?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/charles4souza/) 
