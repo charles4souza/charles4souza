@@ -1,5 +1,9 @@
 
-# Hi, I'm Charles Souza... Welcome to my GitHub 😉
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
+</p>
+
+
 [<img src= "https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/charles4souza/) 
 [<img src= "https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"/>](https://twitter.com/charles4souza) 
 [<img src= "https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium" />](https://medium.com/@charles4souza/) 
