@@ -1,5 +1,5 @@
 
-<p align="left">
+<p align="left"Color=white>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile😉&left=true&width=380&height=45">
 </p>
 
