@@ -17,16 +17,16 @@
 
 ## 📊 More Stats
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- https://github.com/charles4souza/github-readme-activity-graph -->
 
 <a href="https://github.com/charles4souza/github-readme-activity-graph"><img alt="charles4souza's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=charles4souza&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/charles4souza/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="charles4souza's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=charles4souza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lrusso96's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lrusso96&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="charles4souza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=charles4souza&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
