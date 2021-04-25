@@ -12,7 +12,7 @@
 [<img src= "https://img.shields.io/badge/whatsapp-black?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"/>](https://api.whatsapp.com/send?phone=5521996017137&text=Ol%C3%A1%2C%20seja%20bem%20vindo%20ao%20meu%20whatsapp) 
 
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="charles4souza's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=charles4souza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="charles4souza's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=charles4souza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=white" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="charles4souza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=charles4souza&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
