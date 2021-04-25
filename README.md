@@ -4,7 +4,7 @@
 </p>
 
 
-&nbsp; <br> [![Spotify](https://charles4souza.vercel.app/api/spotify)](https://open.spotify.com/user/charles4souza)
+&nbsp; <br> [![Spotify](https://31qqr66rgpzmqxpgsk6mmawishyi.vercel.app/api/spotify)](https://open.spotify.com/user/31qqr66rgpzmqxpgsk6mmawishyi)
 
 
 [<img src= "https://img.shields.io/badge/LinkedIn-black?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/charles4souza/) 
