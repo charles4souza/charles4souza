@@ -13,12 +13,6 @@
 [<img src= "https://img.shields.io/badge/whatsapp-darkgreen?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"/>](https://api.whatsapp.com/send?phone=5521996017137&text=Ol%C3%A1%2C%20seja%20bem%20vindo%20ao%20meu%20whatsapp) 
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=charles4souza)
-
-## 📊 More Stats
-
-<!-- https://github.com/charles4souza/github-readme-activity-graph -->
-
 <a href="https://github.com/charles4souza/github-readme-activity-graph"><img alt="charles4souza's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=charles4souza&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <!-- https://github.com/charles4souza/github-readme-stats -->
@@ -29,18 +23,4 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="charles4souza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=charles4souza&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<details>
-  <summary>✍🏻 Wikipedia Stats</summary>
-  
-  ![Wikipedia](https://charles4souza.vercel.app/api/wikipedia)
-
-</details>
-
-<details>
-  <summary>🕛 Wakatime Week Stats</summary>
-  
-  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=charles4souza&hide_title=true)](https://wakatime.com/charles4souza)
-
 </details>
