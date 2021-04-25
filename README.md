@@ -4,7 +4,7 @@
 </p>
 
 
-&nbsp; <br> [![Spotify](https://ajmeese7.vercel.app/api/spotify)](https://open.spotify.com/user/charles4souza)
+&nbsp; <br> [![Spotify](https://charles4souza.vercel.app/api/spotify)](https://open.spotify.com/user/charles4souza)
 
 
 [<img src= "https://img.shields.io/badge/LinkedIn-black?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/charles4souza/) 
