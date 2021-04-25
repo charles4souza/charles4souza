@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile😉&theme=dark&left=true&width=380&height=45"color="dark">
 </p>
 
-
-&nbsp; <br> [![Spotify](https://charles4souza.vercel.app/api/spotify)](https://open.spotify.com/?_ga=2.176290918.2133789168.1619284226-515611517.1615912326)
-
-
 [<img src= "https://img.shields.io/badge/LinkedIn-black?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/charles4souza/) 
 [<img src= "https://img.shields.io/badge/twitter-black?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"/>](https://twitter.com/charles4souza) 
 [<img src= "https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium" />](https://medium.com/@charles4souza/) 
